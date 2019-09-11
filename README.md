@@ -12,7 +12,7 @@ The Project is created with:
 * Node.js version: 10.16.3
 
 ## Additional Repository
-[The Barber Shop app itself](https://github.com/radshun/barber-shop)
+[The Barber Shop app itself](https://github.com/defraimo/Barbershop-ios)
 
 ## Setup
 To open the cloud functions it's necessary to download [Visual Studio Code](https://code.visualstudio.com/) and [Node.js](https://nodejs.org/en/).
