@@ -31,3 +31,5 @@ Daniel Fraimovich\
 Daniel Radshun
 
 ## License
+MIT © Daniel Fraimovich, Daniel Radshun
+
